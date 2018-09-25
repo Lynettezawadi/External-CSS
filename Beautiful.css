@@ -1,0 +1,43 @@
+body
+{
+    background-image: linear-gradient(to right,#ea76ff,#ff2f25,#2c60ff);
+}
+h1
+{
+    color: #68ff72;
+    text-align: center;
+    text-decoration: underline;
+}
+ol
+{
+    background-color: aqua;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+li
+{
+    color: brown;
+    font-weight: bold;
+}
+table
+{
+    background-color: aliceblue;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+table,th,td
+{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th
+{
+    color: rebeccapurple;
+}
+td
+{
+    color: crimson;
+    padding-left: 10px;
+}
